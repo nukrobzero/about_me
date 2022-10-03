@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nukrob</h1>
-<h3 align="center">A passionate developer/Programmer from Thailand</h3>
+<h3 align="center">🙋 สวัสดีครับ ผม พีระดนย์ ชัยรัตนคำโรจน์ หรือนักรบ เป็นคนที่ชอบและหลงไหลในการเขียนโปรแกรม</h3>
 
+🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍
 - 📫 How to reach me **nukrobzero@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
