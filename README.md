@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Front-End, Back-End, DevOps & more 😍
 
-- 📫 How to reach me **nukrobzero@hotmail.com**
+📫 How to reach me **nukrobzero@hotmail.com**
 
 <p align="left">
 </p>
